@@ -1,0 +1,11 @@
+.add-minus p{
+        font-size: 35px;
+}
+.add-minus button{
+        /* padding: 35px; */
+        width: 100px;
+        height: 100px;
+}
+.add-minus{
+        text-align: center;
+}
