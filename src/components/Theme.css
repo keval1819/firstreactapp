@@ -1,0 +1,25 @@
+.container{
+    padding-top: 60px;
+    margin: 20px auto;
+}
+.themebox{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
+.themebox{
+    color: aqua;
+}
+.button{
+    padding: 20px;
+}
+button{
+    padding-left: 50px;
+    border-radius: 10px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+    background-color: darkgrey;
+}
